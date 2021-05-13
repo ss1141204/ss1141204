@@ -17,7 +17,7 @@
 <!--
 **ss1141204/ss1141204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Contacts 📫
+### 📫 Contacts 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ss1141204@gmail.com)](mailto:ss1141204@gmail.com)
 </div>
