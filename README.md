@@ -5,7 +5,7 @@
 </div>
 
 
-### 👋 Hi there , I'm CsLee :smiley_cat:
+### 👋 I'm CsLee :smiley_cat:
 
 
 ![ss1141204's github stats](https://github-readme-stats.vercel.app/api?username=ss1141204&show_icons=true)
